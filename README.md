@@ -5,13 +5,21 @@ Supplementary information to
 Karin Mitosch<sup>1</sup>, Martin Beyß<sup>2,3</sup>, Prasad Phapale<sup>4</sup>, 
 Bernhard Drotleff4, Katharina Nöh<sup>2\*</sup>, Theodore Alexandrov<sup>4,5,6,7\*</sup>,
 Kiran Patil<sup>5,8\*</sup>, Athanasios Typas<sup>1,5\*</sup>
+
 <sup>1</sup> Genome Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
+
 <sup>2</sup> Institute of Bio- and Geosciences, IBG-1: Biotechnology, Forschungszentrum Jülich GmbH, Jülich, Germany
+
 <sup>3</sup> RWTH Aachen University, Computational Systems Biotechnology, Aachen, Germany
+
 <sup>4</sup> Metabolomics Core Facility, European Molecular Biology Laboratory, Heidelberg, Germany
+
 <sup>5</sup> Structural and Computational Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
+
 <sup>6</sup> Molecular Medicine Partnership Unit, European Molecular Biology Laboratory, Heidelberg, Germany
+
 <sup>7</sup> Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California San Diego, La Jolla, CA, USA
+
 <sup>8</sup> Medical Research Council Toxicology Unit, University of Cambridge, Cambridge, UK
 
 <sup>*</sup> Corresponding authors: 
