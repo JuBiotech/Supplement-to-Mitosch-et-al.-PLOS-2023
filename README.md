@@ -30,7 +30,7 @@ Kiran Patil<sup>5,8\*</sup>, Athanasios Typas<sup>1,5\*</sup>
 
 ## Raw data
 
-The raw data is available on zenodo [doi:10.5281/zenodo.7859058](https://doi.org/10.5281/zenodo.7859058) 
+The raw data is available on zenodo [doi:10.5281/zenodo.7896186](https://doi.org/10.5281/zenodo.7896186) 
 It contains the results of the MCMC sampling (i.e. fluxes) as well as the simulated MS measurements.
 
 
