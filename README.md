@@ -2,6 +2,8 @@ Supplementary information to
 
 # Pathogen-specific isotope tracing approach reveals metabolic activities and fluxes of intracellular Salmonella
 
+[![DOI](https://zenodo.org/badge/629008608.svg)](https://zenodo.org/badge/latestdoi/629008608)
+
 
 Karin Mitosch<sup>1</sup>, Martin Beyß<sup>2,3</sup>, Prasad Phapale<sup>4,5</sup>, Bernhard Drotleff<sup>4</sup>, Katharina Nöh<sup>2\*</sup>, Theodore Alexandrov<sup>4,6,7,8*</sup>, Kiran R. Patil<sup>6,9*</sup>, Athanasios Typas<sup>1,6*</sup>
 
